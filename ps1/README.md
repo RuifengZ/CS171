@@ -1,1 +1,1 @@
-READ ps1.pdf for program details.
+Read ps1.pdf for program details.
